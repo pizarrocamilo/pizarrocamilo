@@ -15,13 +15,8 @@ I am a dedicated **Web Application Development (2DAW)** student with a passion f
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Collaboration & Workflow Tools
-I have extensive experience integrating and utilizing industry-standard collaboration tools to streamline development workflows and project management.
-
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-*   **Slack Mastery**: Proficient in team communication, channel organization, and integrating development hooks (GitHub, Jira, CI/CD alerts) to maintain high team transparency and rapid response times.
-
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-*   **Notion Expert**: Advanced knowledge in documentation, database management, and project tracking. I specialize in creating "Notion-like" experiences within applications, including rich-text editing (Tiptap), structured content management, and collaborative workspaces.
 
 ---
 
