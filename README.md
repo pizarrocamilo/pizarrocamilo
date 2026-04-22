@@ -20,16 +20,6 @@ I am a dedicated **Web Application Development (2DAW)** student with a passion f
 
 ---
 
-## Featured Project: TaskFlow Pro
-A role-based task management system built with Laravel and Vue.js, featuring a premium "Slate & Emerald" design and a Notion-inspired rich text editor.
-
-- **RBAC**: Secure Role-Based Access Control for Admins and Standard Users.
-- **Rich Text**: Fully integrated Tiptap editor for professional documentation within tasks.
-- **Performance**: Optimized with server-side pagination and efficient API services.
-- **Deployment**: Fully containerized using Docker for consistent environments.
-
----
-
 ## Contact & Connectivity
 Let's build something incredible together.
 
