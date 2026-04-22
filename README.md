@@ -9,18 +9,18 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I am a dedicated **Web Application Development (DAW)** student with a strong passion for building efficient, scalable, and secure web solutions. My expertise lies in bridging the gap between robust back-end logic and intuitive front-end interfaces.
 
-- 🔭 **Currently focusing on**: Advanced Laravel patterns, Vue.js reactivity, and API architecture.
-- 🛡️ **Interests**: Beyond development, I have a keen interest in **Cybersecurity** and **Web Design**.
-- ⚙️ **Workflow**: I enjoy automating environments with **Docker** and optimizing development workflows.
-- 🤖 **Automation**: I specialize in workflow automation using **n8n** to connect services and streamline processes.
-- 🎮 **Fun Fact**: In my free time, I develop roleplay servers for FiveM and explore the latest in gaming tech.
+- **Currently focusing on**: Advanced Laravel patterns, Vue.js reactivity, and API architecture.
+- **Interests**: Beyond development, I have a keen interest in **Cybersecurity** and **Web Design**.
+- **Workflow**: I enjoy automating environments with **Docker** and optimizing development workflows.
+- **Automation**: I specialize in workflow automation using **n8n** to connect services and streamline processes.
+- **Fun Fact**: In my free time, I develop roleplay servers for FiveM and explore the latest in gaming tech.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -32,7 +32,7 @@ I am a dedicated **Web Application Development (DAW)** student with a strong pas
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="mailto:camilopizarrocontacto@hotmail.com">
