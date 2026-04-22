@@ -38,11 +38,7 @@ I am a dedicated **Web Application Development (DAW)** student with a strong pas
   <a href="mailto:camilopizarrocontacto@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
-  <a href="mailto:camilopizarrocontacto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </p>
